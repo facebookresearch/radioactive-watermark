@@ -9,7 +9,7 @@ This repository contains the code and additional resources related to the paper 
 For more detailed information, please refer to:
 
 
-[[arxiv](https://arxiv.org/abs/2402.14904)] [[Webpage](https://ai.meta.com/research/publications/watermarking-makes-language-models-radioactive/)]
+[[`arXiv`](https://arxiv.org/abs/2402.14904)] [[`Webpage`](https://ai.meta.com/research/publications/watermarking-makes-language-models-radioactive/)]
 
 ## Code
 
