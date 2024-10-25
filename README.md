@@ -5,9 +5,7 @@
 </p>
 
 
-
-We are excited to share that our work, which is now open-sourced, was accepted as a **spotlight at NeurIPS 2024**. 
-This repository contains the code and additional resources related to our paper. 
+This repository contains the code and additional resources related to the paper published NeurIPS 2024 (spotlight).
 For more detailed information, please refer to:
 
 
@@ -113,16 +111,16 @@ If the model used is not radioactive, it should lead to a random p-value.
 
 ## Compute filter
 
-To compute a filter, follow the instructions of `create_filter.ipynb`
+To compute a filter on the scored tokens, follow the instructions of `create_filter.ipynb`
 
 ## Citation
-If you find our work useful in your research, please consider citing:
+If you find our work useful in your research, please consider giving a ⭐ and citing as:
 
 ```
 @article{sander2024watermarking,
-title={Watermarking Makes Language Models Radioactive},
-author={Sander, Tom and Fernandez, Pierre and Durmus, Alain and Douze, Matthijs and Furon, Teddy},
-journal={arXiv preprint arXiv:2402.14904},
-year={2024}
+    title={Watermarking Makes Language Models Radioactive},
+    author={Sander, Tom and Fernandez, Pierre and Durmus, Alain and Douze, Matthijs and Furon, Teddy},
+    journal={NeurIPS},
+    year={2024}
 }
 ```
